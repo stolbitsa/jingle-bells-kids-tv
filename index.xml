@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>stolbitsa</owner>
+  <repo>jingle-bells-kids-tv</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="jingle-bells-1"/>
+  <readme>
+    <ru>8b7e7b9e6cd620973542af1b02f5dc576e0499918ae2115e4579d5c2daaa33e2</ru>
+    <en>10383a49008baec638d372aa2a3436f8a211271caccd53abe49f34f072c93e76</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>major</scale>
+    <bpm>115</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="19-jingle-bells-kidstv_1.mp4" size="1511802" type="video/mp4" volume="0.611">2073d841aef7b101139cdb8f08692813f4f5710ac2478469c3ffddc1fe72534e</video>
+    <notes>
+      <note number="1" values="38" ticks="105" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="38" ticks="153" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="38" ticks="202" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="38" ticks="296" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="5" values="38" ticks="345" durationTicks="32" ppq="96" velocity="0.719"/>
+      <note number="6" values="38" ticks="391" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>major</scale>
+    <bpm>115</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="19-jingle-bells-kidstv_2.mp4" size="1832767" type="video/mp4" volume="1">996d75e9f961536542c411abcf031f27c20964a689eb8d50c425abe49a597e77</video>
+    <notes>
+      <note number="1" values="38" ticks="99" durationTicks="45" ppq="96" velocity="0.843"/>
+      <note number="2" values="58" ticks="147" durationTicks="45" ppq="96" velocity="0.739"/>
+      <note number="3" values="18" ticks="196" durationTicks="67" ppq="96" velocity="0.719"/>
+      <note number="4" values="28" ticks="266" durationTicks="23" ppq="96" velocity="0.719"/>
+      <note number="5" values="38" ticks="291" durationTicks="82" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>major</scale>
+    <bpm>115</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="19-jingle-bells-kidstv_3.mp4" size="1952729" type="video/mp4" volume="1">2f94fd1296869093f7de2d15ddea7f3be2fe31906cd7190e6f7b6bbef1bcb22b</video>
+    <notes>
+      <note number="1" values="48" ticks="55" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="48" ticks="103" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="48" ticks="152" durationTicks="53" ppq="96" velocity="0.719"/>
+      <note number="4" values="48" ticks="223" durationTicks="15" ppq="96" velocity="0.719"/>
+      <note number="5" values="48" ticks="247" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="6" values="38" ticks="295" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="7" values="38" ticks="344" durationTicks="44" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>major</scale>
+    <bpm>115</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="19-jingle-bells-kidstv_4.mp4" size="1977473" type="video/mp4" volume="1">18588887a0453b32e2d6d4509c27c2cafe648b2130515cbd0bdb241bffe66923</video>
+    <notes>
+      <note number="1" values="38" ticks="45" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="38" ticks="93" durationTicks="40" ppq="96" velocity="0.739"/>
+      <note number="3" values="28" ticks="140" durationTicks="36" ppq="96" velocity="0.719"/>
+      <note number="4" values="28" ticks="189" durationTicks="39" ppq="96" velocity="0.719"/>
+      <note number="5" values="38" ticks="236" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="6" values="28" ticks="285" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="7" values="58" ticks="380" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>major</scale>
+    <bpm>115</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="19-jingle-bells-kidstv_5.mp4" size="1924067" type="video/mp4" volume="1">ffe0dd2ee26ad3fa898d30e23a71e77c8e6ab7b26f893244e4f785a26f5e73eb</video>
+    <notes>
+      <note number="1" values="38" ticks="55" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="38" ticks="103" durationTicks="35" ppq="96" velocity="0.732"/>
+      <note number="3" values="38" ticks="152" durationTicks="81" ppq="96" velocity="0.717"/>
+      <note number="4" values="38" ticks="246" durationTicks="33" ppq="96" velocity="0.717"/>
+      <note number="5" values="38" ticks="294" durationTicks="33" ppq="96" velocity="0.717"/>
+      <note number="6" values="38" ticks="343" durationTicks="95" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>major</scale>
+    <bpm>115</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="19-jingle-bells-kidstv_6.mp4" size="1870192" type="video/mp4" volume="1">de88775712307ab2f7bd20e8c43e66937b1e64f94220fa55a95488daf98fc7f6</video>
+    <notes>
+      <note number="1" values="38" ticks="91" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="58" ticks="139" durationTicks="35" ppq="96" velocity="0.732"/>
+      <note number="3" values="18" ticks="188" durationTicks="67" ppq="96" velocity="0.717"/>
+      <note number="4" values="28" ticks="260" durationTicks="21" ppq="96" velocity="0.717"/>
+      <note number="5" values="38" ticks="282" durationTicks="82" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>major</scale>
+    <bpm>115</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="19-jingle-bells-kidstv_7.mp4" size="1810567" type="video/mp4" volume="1">7925e60342c0c6d13248007755e61f582403d01e3ee461a376723449c482c163</video>
+    <notes>
+      <note number="1" values="48" ticks="93" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="48" ticks="141" durationTicks="35" ppq="96" velocity="0.732"/>
+      <note number="3" values="48" ticks="190" durationTicks="53" ppq="96" velocity="0.717"/>
+      <note number="4" values="48" ticks="261" durationTicks="15" ppq="96" velocity="0.717"/>
+      <note number="5" values="48" ticks="285" durationTicks="34" ppq="96" velocity="0.717"/>
+      <note number="6" values="38" ticks="333" durationTicks="34" ppq="96" velocity="0.717"/>
+      <note number="7" values="38" ticks="382" durationTicks="44" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>major</scale>
+    <bpm>115</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="19-jingle-bells-kidstv_8.mp4" size="1721426" type="video/mp4" volume="1">73fb22d8a060e90a18a708bd5dd8c685c398ae93d9145557dbcdbbfd07f016f9</video>
+    <notes>
+      <note number="1" values="38" ticks="45" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="58" ticks="93" durationTicks="40" ppq="96" velocity="0.732"/>
+      <note number="3" values="58" ticks="140" durationTicks="36" ppq="96" velocity="0.717"/>
+      <note number="4" values="48" ticks="189" durationTicks="39" ppq="96" velocity="0.717"/>
+      <note number="5" values="28" ticks="236" durationTicks="45" ppq="96" velocity="0.717"/>
+      <note number="6" values="18" ticks="285" durationTicks="95" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+</level>
