@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>jingle-bells-kids-tv</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="jingle-bells-1"/>
   <readme>
-    <ru>fa2c6f8626d5975e0a6a00c63a2b3b74dc990a6a4451f1838cfb40c27f4b8eaf</ru>
-    <en>7c14bd99084167d3876bd2e993b0bf357658302323ac6e4e38ab327edf06dd70</en>
+    <ru>2330a8fcccde384f40e99a97a753608b887480047eb9cfa1c1aa066d570491dc</ru>
+    <en>aaff27da6d09b0861f8eec245517cc93cb77c61ce1becdfbe2a6d6715ba09191</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
